@@ -4,11 +4,14 @@
     padding: 16px;
     max-width: 300px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffff;
+    border-radius: 15px;
   }
   
   .product-name {
     font-size: 24px;
     font-weight: bold;
+    color: #5555;
   }
   
   .price {
